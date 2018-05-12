@@ -1,0 +1,27 @@
+main {
+  margin: 20px;
+}
+h1 {
+  margin: 0;
+}
+input.file {
+	position: relative;
+	z-index: 2;
+	opacity: 0;
+}
+.searchimg {
+	height:50px;
+	width:50px;
+}
+.filler {
+	width:200px;
+	height:50px;
+}
+div.fileUpload {
+	position: relative;
+}
+div.fakefile {
+	position: absolute;
+	z-index: 1;
+}
+
